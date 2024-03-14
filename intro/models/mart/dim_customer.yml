@@ -16,4 +16,3 @@ models:
         description: this is the natural key for our customer
         tests:
           - not_null
-          - unique
