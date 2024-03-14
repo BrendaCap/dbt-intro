@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: jaffleshop
+    database: raw
+    schema: dbazrsqljs01
+    tables:
+      - name: jaffleshop__customers
+      - name: jaffleshop__orders
+      - name: jaffleshop__payments
